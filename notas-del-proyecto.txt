@@ -1,0 +1,8 @@
+Iniciar proyecto:
+
+Configuración:
+-Crear carpeta y conectar el proyecto a un repositorio.
+-En la carpeta del proyecto, inicializar con git:
+  Comando: npm git init => npm init -y
+-Abrir proyecto en VSCode ir al archivo: package.json
+
